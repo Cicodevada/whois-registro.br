@@ -87,6 +87,6 @@ SOFTWARE.
 Este script é fornecido apenas para fins educacionais e de pesquisa. Certifique-se de cumprir os termos de serviço do Registro.br ao utilizar este software.
 
 ## 🎁 Expressões de gratidão
-Me pague um café ❤️ Tá ai meu PIX :)
+Me pague um café ❤️ Tá ai meu PIX :)<br>
 pix@hugosantos.lol<br>
-<img src="https://i.imgur.com/buWTEb3.png" alt="QR Pix" style="height: 150px; width:150px;"/>
+<center><img src="https://i.imgur.com/buWTEb3.png" alt="QR Pix" style="height: 150px; width:150px;"/></center>
