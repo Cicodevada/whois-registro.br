@@ -89,4 +89,4 @@ Este script é fornecido apenas para fins educacionais e de pesquisa. Certifique
 ## 🎁 Expressões de gratidão
 Me pague um café ❤️ Tá ai meu PIX :)<br>
 pix@hugosantos.lol<br>
-<center><img src="https://i.imgur.com/buWTEb3.png" alt="QR Pix" style="height: 150px; width:150px;"/></center>
+<center><img src="https://i.imgur.com/buWTEb3.png" alt="QR Pix" style="height: 200px; width:200px;"/></center>
