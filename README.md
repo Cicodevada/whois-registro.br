@@ -24,8 +24,8 @@ Este projeto fornece uma API para consultar informações de domínios registrad
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/hugosantoslisboa/whois-registro-br.git
-   cd whois-registro-br
+   git clone https://github.com/hugosantoslisboa/whois-registro.br.git
+   cd whois-registro.br
    ```
 
 2. Instale as dependências:
