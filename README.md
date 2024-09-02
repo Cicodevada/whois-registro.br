@@ -2,17 +2,17 @@
 
 Um simples script em Python para consultar os dados do WHOIS do Registro.br através de uma API Flask.
 
-## Descrição
+## 🚀 Descrição
 
 Este projeto fornece uma API para consultar informações de domínios registrados no Registro.br. Ele utiliza web scraping e requisições HTTP para contornar as limitações de acesso direto aos dados do WHOIS.
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
 - Consulta de dados WHOIS para domínios .br
 - API RESTful para fácil integração
 - Gerenciamento automático de cookies para evitar bloqueios
 
-## Requisitos
+## 📋 Requisitos
 
 - Python 3.x
 - Flask
@@ -20,7 +20,7 @@ Este projeto fornece uma API para consultar informações de domínios registrad
 - Selenium
 - WebDriver Manager
 
-## Instalação
+## 🔧 Instalação
 
 1. Clone o repositório:
    ```
@@ -38,7 +38,7 @@ Este projeto fornece uma API para consultar informações de domínios registrad
    py main.py
    ```
 
-## Uso
+## ⌨️ Uso
 
 Após iniciar o servidor, você pode fazer consultas WHOIS através da seguinte URL:
 
@@ -48,17 +48,17 @@ http://localhost:5000/whois?url=exemplo.com.br
 
 Substitua `exemplo.com.br` pelo domínio que deseja consultar.
 
-## Como funciona
+## 🛠️ Como funciona
 
 1. O script utiliza Selenium para obter cookies válidos do site registro.br.
 2. Com os cookies obtidos, faz uma requisição à API do Registro.br para obter os dados do WHOIS.
 3. Se os cookies expirarem, o processo é repetido automaticamente.
 
-## Contribuições
+## 🖇️ Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
+## 📄 Licença
 
 MIT License
 
@@ -85,3 +85,8 @@ SOFTWARE.
 ## Aviso Legal
 
 Este script é fornecido apenas para fins educacionais e de pesquisa. Certifique-se de cumprir os termos de serviço do Registro.br ao utilizar este software.
+
+## 🎁 Expressões de gratidão
+Me pague um café ❤️ Tá ai meu PIX :)
+pix@hugosantos.lol
+<img src="https://i.imgur.com/buWTEb3.png" alt="QR Pix" style="height: 150px; width:150px;"/>
