@@ -86,7 +86,7 @@ SOFTWARE.
 
 Este script é fornecido apenas para fins educacionais e de pesquisa. Certifique-se de cumprir os termos de serviço do Registro.br ao utilizar este software.
 
-## ☕ Me paga um cafézinho cremosinho 
+## ☕ Me paga um cafézinho
 Tá ai meu PIX ❤️<br>
 pix@hugosantos.lol<br>
 <center><img src="https://i.imgur.com/buWTEb3.png" alt="QR Pix" style="height: 200px; width:200px;"/></center>
