@@ -82,11 +82,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Aviso Legal
+## ⚖️ Aviso Legal
 
 Este script é fornecido apenas para fins educacionais e de pesquisa. Certifique-se de cumprir os termos de serviço do Registro.br ao utilizar este software.
 
-## 🎁 Expressões de gratidão
-Me pague um café ❤️ Tá ai meu PIX :)<br>
+## ☕ Me paga um cafézinho cremosinho 
+Tá ai meu PIX ❤️<br>
 pix@hugosantos.lol<br>
 <center><img src="https://i.imgur.com/buWTEb3.png" alt="QR Pix" style="height: 200px; width:200px;"/></center>
